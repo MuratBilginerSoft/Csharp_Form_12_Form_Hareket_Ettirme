@@ -1,0 +1,10 @@
+c:\users\mrt_b\source\repos\Form Hareket Ettirme\Form Hareket Ettirme\bin\Debug\Form Hareket Ettirme.exe.config
+c:\users\mrt_b\source\repos\Form Hareket Ettirme\Form Hareket Ettirme\bin\Debug\Form Hareket Ettirme.exe
+c:\users\mrt_b\source\repos\Form Hareket Ettirme\Form Hareket Ettirme\bin\Debug\Form Hareket Ettirme.pdb
+c:\users\mrt_b\source\repos\Form Hareket Ettirme\Form Hareket Ettirme\obj\Debug\Form Hareket Ettirme.csprojAssemblyReference.cache
+c:\users\mrt_b\source\repos\Form Hareket Ettirme\Form Hareket Ettirme\obj\Debug\Form_Hareket_Ettirme.Form1.resources
+c:\users\mrt_b\source\repos\Form Hareket Ettirme\Form Hareket Ettirme\obj\Debug\Form_Hareket_Ettirme.Properties.Resources.resources
+c:\users\mrt_b\source\repos\Form Hareket Ettirme\Form Hareket Ettirme\obj\Debug\Form Hareket Ettirme.csproj.GenerateResource.cache
+c:\users\mrt_b\source\repos\Form Hareket Ettirme\Form Hareket Ettirme\obj\Debug\Form Hareket Ettirme.csproj.CoreCompileInputs.cache
+c:\users\mrt_b\source\repos\Form Hareket Ettirme\Form Hareket Ettirme\obj\Debug\Form Hareket Ettirme.exe
+c:\users\mrt_b\source\repos\Form Hareket Ettirme\Form Hareket Ettirme\obj\Debug\Form Hareket Ettirme.pdb
